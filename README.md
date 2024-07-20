@@ -6,7 +6,7 @@ Welcome to my portfolio! 🎉 This project showcases my skills and work as a web
 
 This portfolio project is designed to be a comprehensive showcase of my web development abilities. It includes sections for displaying my projects, listing my technical skills, sharing my resume, and providing a way to get in touch with me.
 
-##🌟 **Features** 
+## 🌟 **Features** 
 
 - **Project Gallery**: View detailed information about each project I have worked on. 🖼️
 - **Skills Section**: A visual representation of my technical skills and competencies. 💪
@@ -20,7 +20,7 @@ This portfolio project is designed to be a comprehensive showcase of my web deve
 - You can view a live version of the portfolio here : <a href="https://jagratimehta410.github.io/jag-portfolio/" target="_blank">Live Demo 🚀</a>
 - Feel free to explore the features and see my work in action!
   
-## 📸**Screenshots**
+## 📸 **Screenshots**
 
 Here are some screenshots of the portfolio in action:
 ![Screenshot 2024-07-20 231328](https://github.com/user-attachments/assets/b065d386-db44-4417-9c57-b8da68f3313e)
