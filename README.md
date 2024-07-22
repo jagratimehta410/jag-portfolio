@@ -17,8 +17,7 @@ This portfolio project is designed to be a comprehensive showcase of my web deve
 
 ## 👀 **Live Demo**
 
-- You can view a live version of the portfolio here : 
-
+- You can view a live version of the portfolio here : <a href="https://jagratimehta410.github.io/jag-portfolio/" target="_blank">Live Demo 🚀</a>
 - Feel free to explore the features and see my work in action!
   
 ## 📸 **Screenshots**
